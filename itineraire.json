@@ -1,0 +1,178 @@
+{
+  "pays": "Maroc",
+  "drapeau": "🇲🇦",
+  "symbole": "🕌",
+  "titre": "Évasion Relaxante à Fès : Trésors Impériaux et Douceurs Orientales",
+  "budget_total": "Environ 750-850 €/pers",
+  "duree": "4 jours",
+  "temps_vol": "2h45m depuis Paris, france",
+  "escale": "0",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et Douceur Fassie",
+      "legende": "Après votre vol depuis Paris, installez-vous confortablement dans votre Riad au cœur de Fès. La première journée est dédiée à une immersion douce, explorant les environs immédiats et savourant l'hospitalité marocaine autour d'un thé à la menthe. Laissez-vous porter par l'ambiance unique de la ville impériale.",
+      "lieu": "Fès",
+      "activites": [
+        "🛬 Arrivée à l'aéroport de Fès-Saïs (FEZ)",
+        "🛏️ Transfert et installation dans votre Riad",
+        "<strong>🚶‍♂️ Balade sensorielle dans les ruelles proches du Riad</strong>: Imprégnez-vous de l'ambiance locale en explorant les environs immédiats de votre hébergement, découvrant les sons, les odeurs et les couleurs de Fès.",
+        "<strong>☕ Cérémonie du thé à la menthe traditionnelle</strong>: Détendez-vous dans un salon de thé typique et savourez le rituel apaisant du thé à la menthe, symbole d'hospitalité marocaine."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Conseil d'arrivée",
+          "texte": "Préférez un taxi officiel ou une navette organisée par votre Riad pour le transfert depuis l'aéroport afin d'éviter les tracas."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": " labyrinth",
+      "titre": "Cœur de la Médina et Artisanat",
+      "legende": "Plongez au cœur de Fès el-Bali, la plus ancienne médina du monde, classée au patrimoine de l'UNESCO. Laissez-vous guider à travers ses ruelles sinueuses, découvrez l'artisanat local et admirez les tanneries depuis un point de vue panoramique. Une journée riche en découvertes culturelles, à un rythme tranquille.",
+      "lieu": "Fès",
+      "activites": [
+        "<strong>🕌 Exploration guidée de Fès el-Bali</strong>: Laissez-vous guider à travers le labyrinthe de la plus ancienne médina du monde, découvrant ses portes majestueuses, ses fontaines cachées et son histoire millénaire.",
+        "<strong>🎨 Découverte des tanneries Chouara (depuis une terrasse)</strong>: Observez le spectacle fascinant des célèbres tanneries depuis une terrasse panoramique, sans vous immerger dans l'agitation des ateliers.",
+        "<strong>🏺 Visite d'un atelier de poterie et céramique</strong>: Admirez le savoir-faire ancestral des artisans de Fès et découvrez les étapes de fabrication des magnifiques poteries et zelliges."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "🚶‍♀️",
+          "titre": "Chaussures confortables",
+          "texte": "Prévoyez des chaussures confortables pour explorer la médina, les rues sont pavées et parfois inégales."
+        },
+        {
+          "symbole": "👃",
+          "titre": "Astuce pour les tanneries",
+          "texte": "On vous proposera souvent de la menthe fraîche pour atténuer l'odeur caractéristique des tanneries. N'hésitez pas à l'accepter."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🌿",
+      "titre": "Sérénité et Saveurs Locales",
+      "legende": "Cette journée est dédiée à la détente et à l'immersion dans la culture marocaine. Profitez d'une promenade apaisante dans un jardin luxuriant, initiez-vous à la cuisine locale lors d'un cours convivial, et offrez-vous un moment de bien-être absolu avec un hammam traditionnel et un massage relaxant. Une parenthèse enchantée pour le corps et l'esprit.",
+      "lieu": "Fès",
+      "activites": [
+        "<strong>🌳 Promenade apaisante au Jardin Jnan Sbil</strong>: Échappez à l'agitation de la ville dans ce magnifique jardin public, un havre de paix avec ses palmiers, ses bambous et son lac serein.",
+        "<strong>🍲 Cours de cuisine marocaine relaxant</strong>: Apprenez à préparer des plats traditionnels comme le tajine ou le couscous dans une ambiance conviviale, puis dégustez vos créations.",
+        "<strong>🧖‍♀️ Expérience Hammam traditionnel et massage</strong>: Offrez-vous un moment de pure détente et de purification dans un hammam local, suivi d'un massage relaxant pour revitaliser corps et esprit."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🍽️",
+          "titre": "Cuisine marocaine",
+          "texte": "Les cours de cuisine sont une excellente façon de découvrir les épices et les saveurs du Maroc. De nombreux Riads proposent cette activité."
+        },
+        {
+          "symbole": "💆‍♀️",
+          "titre": "Hammam",
+          "texte": "Le hammam est une tradition ancestrale de bien-être. Renseignez-vous sur les options privées ou publiques selon vos préférences."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🛫",
+      "titre": "Derniers Souvenirs et Départ",
+      "legende": "Profitez de vos dernières heures à Fès pour quelques achats de souvenirs, une dernière immersion dans l'ambiance des souks ou la visite d'un monument emblématique. Après un dernier petit-déjeuner marocain, il sera temps de rejoindre l'aéroport, la tête remplie de souvenirs et le cœur léger. Un départ en douceur après un séjour relaxant.",
+      "lieu": "Fès",
+      "activites": [
+        "<strong>🛍️ Flânerie et achats de souvenirs au souk</strong>: Profitez d'une dernière balade dans les souks pour trouver des épices, des babouches ou des objets d'artisanat, en prenant votre temps.",
+        "<strong>📸 Visite de la Medersa Bou Inania</strong>: Admirez l'architecture islamique raffinée de cette ancienne école coranique, un chef-d'œuvre de l'art mérinide, avant de quitter la médina.",
+        "🛫 Transfert à l'aéroport de Fès-Saïs (FEZ) et vol retour vers Paris."
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": " bargaining",
+          "titre": "Négociation",
+          "texte": "Dans les souks, la négociation fait partie de l'expérience. N'hésitez pas à marchander avec le sourire pour obtenir le meilleur prix."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    {
+      "titre": "Budget vol:",
+      "legende": "266 €/pers (prix donné)",
+      "symbole": "🛬"
+    },
+    {
+      "titre": "Budget transports:",
+      "legende": "Environ 50-70 €/pers (taxis, navettes aéroport, petits déplacements)",
+      "symbole": "🚆"
+    },
+    {
+      "titre": "Budget repas:",
+      "legende": "Environ 120-160 €/pers (4 jours, budget moyen pour 3 repas/jour)",
+      "symbole": "🥗"
+    },
+    {
+      "titre": "Budget logement:",
+      "legende": "Environ 180-240 €/pers (3 nuits en Riad 3* base double)",
+      "symbole": "🛏️"
+    },
+    {
+      "titre": "Budget activités:",
+      "legende": "Environ 80-120 €/pers (entrées, hammam, cours de cuisine, guide)",
+      "symbole": "🎭"
+    }
+  ],
+  "periodes_ideales": [
+    {
+      "titre": "Printemps (Mars-Mai)",
+      "symbole": "🌸"
+    },
+    {
+      "titre": "Automne (Septembre-Novembre)",
+      "symbole": "🍂"
+    }
+  ],
+  "infos_pratiques": [
+    {
+      "titre": "La monnaie est le Dirham marocain (MAD). Les cartes de crédit sont acceptées dans les grands établissements, mais prévoyez du liquide pour les petits commerces et les souks.",
+      "symbole": "💳"
+    },
+    {
+      "titre": "Le français est largement parlé, surtout dans les zones touristiques. Quelques mots d'arabe seront appréciés.",
+      "symbole": "🗣️"
+    },
+    {
+      "titre": "Le climat est méditerranéen. En printemps/automne, les températures sont douces (15-25°C). Prévoyez des vêtements légers pour la journée et une veste pour les soirées plus fraîches.",
+      "symbole": "☀️"
+    },
+    {
+      "titre": "Respectez les coutumes locales, notamment en vous habillant de manière modeste, surtout lors de la visite de lieux de culte.",
+      "symbole": "🙏"
+    }
+  ],
+  "liens_utiles": [
+    {
+      "legende": "Vols",
+      "titre": "Réserve ton vol",
+      "url": "https://www.kayak.fr/flights/CDG-FEZ/2025-05-12/2025-05-16",
+      "symbole": "🛬"
+    },
+    {
+      "legende": "Infos officielles et inspirations",
+      "titre": "Visit Morocco",
+      "url": "https://www.visitmorocco.com/fr",
+      "symbole": "📘"
+    },
+    {
+      "legende": "Météo",
+      "titre": "Météo Fès",
+      "url": "https://www.accuweather.com/fr/ma/fes/243609/weather-forecast/243609",
+      "symbole": "🌤️"
+    }
+  ]
+}
